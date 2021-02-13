@@ -19,7 +19,3 @@ for x in id:
 with open('output_available.txt', 'w') as f:
     for item in available:
         f.write("%s\n" % item)
-
-
-
-
