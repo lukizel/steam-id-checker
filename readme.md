@@ -8,4 +8,4 @@ Requirements are available in the requirements.txt file.
 
 ## Demo
 ![demo gif](https://pays.host/uploads/5c770fa6-17bd-4049-b240-71a781d703fb/QWTQyQAs.gif)
-[Demo input file (all 3 digit steamid's](https://gist.github.com/lukizel/3e500870b60c4ace9cf80297b742b3c6)
+[Demo input file (all 3 digit steamid's)](https://gist.github.com/lukizel/3e500870b60c4ace9cf80297b742b3c6)
